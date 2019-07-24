@@ -1,0 +1,21 @@
+
+var ftGUID_3736549="4076D0F4FDEA5B";
+var ftConfID_3736549="0";
+var ftParams_3736549="ftx=&fty=&ftadz=&ftscw=&ft_custom=65-afrrkhxq9zdqbvsvts--bhbq9ydiy7cntf-2fgxfvyofnuc3bg9bmb1rh1q==&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.w3schools.com%2Fhowto%2Ftryit.asp%3Ffilename%3Dtryhow_js_add_class&ft_keyword=__13330890__498434__&ft_section=__13330890__498434____05311597532045817821303228929427304281&cachebuster=659267.3050487434&gdpr=0&gdpr_consent=";
+var ftKeyword_3736549="";
+var ftCustom_3736549="65-afrrkhxq9zdqbvsvts--bhbq9ydiy7cntf-2fgxfvyofnuc3bg9bmb1rh1q==";
+var ftSection_3736549="__13330890__498434____05311597532045817821303228929427304281";
+var ftSegment_3736549="n7h,um2,w2b,tg1";
+var ftSegmentList_3736549=[{s:'n7h'},{s:'um2'},{s:'w2b'},{s:'tg1'}];
+var ftRuleMatch_3736549="0";
+var ftTimestamp_3736549="1558252212";
+var ftImp3736549 = {};
+ftImp3736549.privacy = "x";
+ftImp3736549.guidAge = "80";
+ftImp3736549.impID = "43837571-47F2-AB0B-843A-66167B27A983";
+ftImp3736549.duid = "FT:4076D0F4FDEA5B";
+
+ftImp3736549.ft_tpplid = "";
+ftImp3736549.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/373/3736549/2535089/js/j-3736549-2535089.js" id="ftscript_m3736549" name="ftscript_m3736549"></scr'+'ipt>');
