@@ -99,7 +99,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image1 .image{
-  background:url("https://cdn.dribbble.com/users/460205/screenshots/6037787/kero-shot.jpg");
+  background:url("../../img/hero-email.png");
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -113,7 +113,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image2 .image{
-  background:url("https://cdn.dribbble.com/users/929812/screenshots/6447557/packs_layout_2x.jpg");
+  background:url("../../img/kayak-email.png");
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -126,7 +126,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image3 .image{
-  background:url("https://cdn.dribbble.com/users/2559/screenshots/5367963/healthcare-homepage_2x.png");
+  background:url("../../img/airbnb-email.png");
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -139,7 +139,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image4 .image{
-  background:url("https://cdn.dribbble.com/users/345970/screenshots/5244814/lp_shot_2x.png");
+  background:url("../../img/afterpay-email.png");
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -152,7 +152,7 @@
 }
 
 #portfolio-section .portfolio-container .box.image5 .image{
-  background:url("https://cdn.dribbble.com/users/14268/screenshots/5482031/cr_unfold_2x.png");
+  background:url("../../img/nyu-clone.png");
   height: 100%;
   width: 100%;
   background-size: cover;
